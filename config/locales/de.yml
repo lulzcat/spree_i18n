@@ -1,5 +1,5 @@
 ---
-de:
+de: Deutschland
   activerecord:
     attributes:
       spree/address:
@@ -165,9 +165,9 @@ de:
       spree/property:
         name: Name
         presentation: Angezeigter Wert
-      spree/prototype:
+      spree/prototype: Prototyp
         name: Name
-      spree/refund:
+      spree/refund: Rückgabe
         amount: Summe
         description: Beschreibung
         refund_reason_id: Grund
@@ -208,7 +208,7 @@ de:
         name: Name
       spree/shipment:
         number: Nummer
-        tracking: Tracking Nummer
+        tracking: Verfolgungsnummer
       spree/shipping_category:
         name: Name
       spree/shipping_method:
@@ -562,7 +562,7 @@ de:
     actions:
       actions:
         cancel: Abbrechen
-        destroy: Zerstören
+        destroy: Verwerfen
         edit: Bearbeiten
         save: Speichern
       add: Hinzufügen
